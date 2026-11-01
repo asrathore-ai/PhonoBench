@@ -1,0 +1,11 @@
+# Install a compatible PyTorch/torchvision pair for your CUDA version first.
+torch>=2.6,<3
+torchvision>=0.21,<1
+transformers==4.57.6
+qwen-vl-utils==0.0.14
+accelerate==1.10.1
+peft==0.17.1
+bitsandbytes>=0.45
+numpy>=1.26,<3
+Pillow>=10.4
+opencv-python-headless>=4.10

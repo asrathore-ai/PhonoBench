@@ -1,0 +1,30 @@
+{
+  "Contact": {
+    "0": "absent",
+    "1": "present"
+  },
+  "Flexion Change": {
+    "0": "absent",
+    "1": "present"
+  },
+  "Spread": {
+    "0": "not spread",
+    "1": "spread"
+  },
+  "Spread Change": {
+    "0": "absent",
+    "1": "present"
+  },
+  "Thumb Contact": {
+    "0": "absent",
+    "1": "present"
+  },
+  "Repeated Movement": {
+    "0": "absent",
+    "1": "present"
+  },
+  "Wrist Twist": {
+    "0": "absent",
+    "1": "present"
+  }
+}

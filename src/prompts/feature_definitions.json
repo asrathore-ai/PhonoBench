@@ -1,0 +1,19 @@
+{
+  "Major Location": "the broad body or signing-space region where the sign is produced",
+  "Minor Location": "the more specific location within the broad signing region",
+  "Second Minor Location": "an additional specific location used by the sign",
+  "Contact": "whether the articulators visibly make contact",
+  "Handshape": "the canonical configuration of the dominant hand",
+  "Selected Fingers": "which fingers are selected or active in the hand configuration",
+  "Flexion": "the degree or type of finger bending",
+  "Flexion Change": "whether finger flexion changes during the sign",
+  "Spread": "whether the selected fingers are spread",
+  "Spread Change": "whether finger spread changes during the sign",
+  "Thumb Position": "the position of the thumb relative to the fingers or palm",
+  "Thumb Contact": "whether the thumb contacts another part of the hand",
+  "Sign Type": "the one-handed or two-handed structural type of the sign",
+  "Path Movement": "the geometric path followed by the moving articulator",
+  "Repeated Movement": "whether the movement is repeated",
+  "Nondominant Handshape": "the handshape of the nondominant hand",
+  "Wrist Twist": "whether the wrist twists during the sign"
+}

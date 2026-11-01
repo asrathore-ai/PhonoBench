@@ -1,0 +1,12 @@
+{
+  "same_sign": "Do Video 1 and Video 2 depict the same lexical ASL sign, possibly produced by different signers?",
+  "one_feature_pair": "Are Video 1 and Video 2 different lexical signs whose annotations differ in exactly one of the 17 selected ASL-LEX fields?",
+  "distinguishing_feature": "The two lexical signs differ in exactly one of the 17 selected ASL-LEX fields. Which field is the sole difference?",
+  "exists_one_feature_pair": "Does any pair of different lexical signs among the five displayed videos differ in exactly one of the 17 selected ASL-LEX fields?",
+  "universal_shared_feature": "Do all five displayed lexical signs have the same annotated value for {field}?",
+  "feature_value_counting": "How many of the five displayed videos have {field} = {value} in the selected annotation representation?",
+  "constraint_satisfaction": "Choose the candidate that differs from anchor A only in {field_a} and from anchor B only in {field_b}, preserving every other selected field in each comparison.",
+  "feature_transformation": "Apply the supplied directed change {source_value} -> {target_value} in {field} to anchor C. Choose the candidate with that change and identical values for every other selected field.",
+  "common_neighbor": "Choose the candidate that forms a one-feature pair with both anchors. A one-feature pair consists of different lexical signs that differ in exactly one of the 17 selected ASL-LEX fields.",
+  "isolate_detection": "Choose the unique sign that forms no one-feature pair with any other sign in the five-video set. A one-feature pair consists of different lexical signs differing in exactly one of the 17 selected ASL-LEX fields."
+}

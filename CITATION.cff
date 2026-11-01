@@ -1,0 +1,31 @@
+
+cff-version: 1.2.0
+message: "If you use PhonoBench, please cite our WACV 2027 paper."
+
+title: "PhonoBench"
+type: software
+license: MIT
+repository-code: "https://github.com/asrathore-ai/PhonoBench"
+
+authors:
+  - family-names: Rathore
+    given-names: "Aditya Singh"
+  - family-names: Jawahar
+    given-names: "C. V."
+  - family-names: Namboodiri
+    given-names: "Vinay P."
+
+preferred-citation:
+  type: conference-paper
+  title: "PhonoBench: Evaluating Sign-Form Reasoning in Video MLLMs"
+  authors:
+    - family-names: Rathore
+      given-names: "Aditya Singh"
+    - family-names: Jawahar
+      given-names: "C. V."
+    - family-names: Namboodiri
+      given-names: "Vinay P."
+  conference:
+    name: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  collection-title: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision"
+  year: 2027

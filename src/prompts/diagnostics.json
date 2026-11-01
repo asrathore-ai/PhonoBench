@@ -1,0 +1,14 @@
+{
+  "atomic_value": "What is the annotated value of {field} for Video {index}?",
+  "named_field_equality": "Do Video 1 and Video 2 have the same annotated value for {field}?",
+  "sole_difference_verification": "Is {field} the only selected ASL-LEX field whose annotated value differs between Video 1 and Video 2?",
+  "two_way_field_attribution": "The two lexical signs differ in exactly one selected ASL-LEX field. Which field is the sole difference: {left_field} or {right_field}?",
+  "seventeen_way_field_attribution": "The two lexical signs differ in exactly one selected ASL-LEX field. Which of the 17 selected fields is the sole difference?",
+  "same_sign_retrieval": "Which candidate depicts the same lexical ASL sign as the anchor?",
+  "one_feature_neighbor_retrieval": "Which candidate is a different lexical sign that differs from the anchor in exactly one selected ASL-LEX field?",
+  "named_feature_neighbor_retrieval": "Which candidate differs from the anchor only in the selected field {field}, while preserving all other selected fields?",
+  "counterfactual_twin": "Is {field} the only selected ASL-LEX field whose annotated value differs between Video 1 and Video 2?",
+  "target_feature_under_distractors": "What is the annotated value of {field} for Video {target_index}?",
+  "controlled_universal": "Do all displayed lexical signs have the same annotated value for {field}?",
+  "universal_outlier_position": "Do all displayed lexical signs have the same annotated value for {field}?"
+}

@@ -1,0 +1,326 @@
+{
+  "Major Location": {
+    "definition": "Broad region of the dominant hand relative to the body.",
+    "label_hints": {
+      "Arm": "dominant hand is mainly on or near the arm",
+      "Body": "dominant hand is mainly near torso/body",
+      "Hand": "dominant hand is mainly on or near the nondominant hand",
+      "Head": "dominant hand is mainly near head/face",
+      "Neutral": "dominant hand is mainly in neutral signing space"
+    }
+  },
+  "Minor Location": {
+    "definition": "Specific sub-region where the dominant hand is articulated, contacts, starts, or is closest.",
+    "label_hints": {
+      "Arm Away": "near the arm but away from direct contact",
+      "Body Away": "near the torso/body but away from direct contact",
+      "Cheek Nose": "near the cheek or nose area of the face",
+      "Chin": "at or near the chin",
+      "Clavicle": "at or near the collarbone/clavicle",
+      "Elbow Back": "on/near the back side of the elbow",
+      "Eye": "at or near the eye region",
+      "Finger Back": "on/near the back/dorsal side of the fingers",
+      "Finger Front": "on/near the front/palm side of the fingers",
+      "Finger Radial": "on/near the thumb-side/radial edge of the fingers",
+      "Finger Tip": "at or near the fingertips",
+      "Finger Ulnar": "on/near the pinky-side/ulnar edge of the fingers",
+      "Forearm Back": "on/near the back/dorsal side of the forearm",
+      "Forearm Front": "on/near the front/inner side of the forearm",
+      "Forearm Ulnar": "on/near the pinky-side/ulnar edge of the forearm",
+      "Forehead": "at or near the forehead",
+      "Hand Away": "near the nondominant hand but away from direct contact",
+      "Head Away": "near the head/face but away from direct contact",
+      "Head Top": "at or near the top of the head",
+      "Heel": "at or near the heel/base of the palm",
+      "Hips": "at or near the hips",
+      "Mouth": "at or near the mouth",
+      "Neck": "at or near the neck",
+      "Neutral": "in neutral signing space rather than a specific body subpart",
+      "Other": "a specific location not covered by the listed labels",
+      "Palm": "on/near the palm of the nondominant hand",
+      "Palm Back": "on/near the back/dorsal side of the hand",
+      "Shoulder": "at or near the shoulder",
+      "Torso Bottom": "at or near the lower torso",
+      "Torso Mid": "at or near the middle torso",
+      "Torso Top": "at or near the upper torso/chest",
+      "Under Chin": "under the chin",
+      "Upper Arm": "on/near the upper arm",
+      "Upper Lip": "at or near the upper lip",
+      "Waist": "at or near the waist",
+      "Wrist Back": "on/near the back/dorsal side of the wrist",
+      "Wrist Front": "on/near the front/palm side of the wrist"
+    }
+  },
+  "Second Minor Location": {
+    "definition": "A second specific articulatory sub-region when the sign has another meaningful location target.",
+    "label_hints": {
+      "Arm Away": "near the arm but away from direct contact",
+      "Body Away": "near the torso/body but away from direct contact",
+      "Cheek Nose": "near the cheek or nose area of the face",
+      "Chin": "at or near the chin",
+      "Clavicle": "at or near the collarbone/clavicle",
+      "Elbow Back": "on/near the back side of the elbow",
+      "Eye": "at or near the eye region",
+      "Finger Back": "on/near the back/dorsal side of the fingers",
+      "Finger Front": "on/near the front/palm side of the fingers",
+      "Finger Radial": "on/near the thumb-side/radial edge of the fingers",
+      "Finger Tip": "at or near the fingertips",
+      "Finger Ulnar": "on/near the pinky-side/ulnar edge of the fingers",
+      "Forearm Back": "on/near the back/dorsal side of the forearm",
+      "Forearm Front": "on/near the front/inner side of the forearm",
+      "Forearm Radial": "on/near the thumb-side/radial edge of the forearm",
+      "Forearm Ulnar": "on/near the pinky-side/ulnar edge of the forearm",
+      "Forehead": "at or near the forehead",
+      "Hand Away": "near the nondominant hand but away from direct contact",
+      "Head Away": "near the head/face but away from direct contact",
+      "Head Top": "at or near the top of the head",
+      "Heel": "at or near the heel/base of the palm",
+      "Hips": "at or near the hips",
+      "Mouth": "at or near the mouth",
+      "Neck": "at or near the neck",
+      "Neutral": "in neutral signing space rather than a specific body subpart",
+      "Other": "a specific location not covered by the listed labels",
+      "Palm": "on/near the palm of the nondominant hand",
+      "Palm Back": "on/near the back/dorsal side of the hand",
+      "Shoulder": "at or near the shoulder",
+      "Torso Bottom": "at or near the lower torso",
+      "Torso Mid": "at or near the middle torso",
+      "Torso Top": "at or near the upper torso/chest",
+      "Under Chin": "under the chin",
+      "Upper Arm": "on/near the upper arm",
+      "Upper Lip": "at or near the upper lip",
+      "Waist": "at or near the waist"
+    }
+  },
+  "Contact": {
+    "definition": "Whether the active hand contacts the body or the other hand during the sign.",
+    "label_hints": {
+      "0": "no contact occurs",
+      "1": "contact occurs"
+    }
+  },
+  "Handshape": {
+    "definition": "Dominant hand configuration: selected fingers, thumb, palm/finger shape, and closure pattern.",
+    "label_hints": {
+      "1": "Unverified ASL-LEX handshape label 1.0; use the visible hand configuration",
+      "3": "thumb, index, and middle fingers extended",
+      "4": "four fingers extended and spread; thumb closed/tucked",
+      "5": "all fingers extended and spread; thumb open",
+      "7": "ASL number-7 handshape; thumb contacts/controls the ring finger",
+      "8": "ASL number-8 handshape; middle finger bends toward the thumb",
+      "a": "A handshape; fist-like hand with thumb along the side/front",
+      "baby_o": "baby-O handshape; fingertips and thumb form a small O",
+      "bent_1": "index finger extended; other fingers closed; selected extended fingers are bent at the joints",
+      "bent_l": "L handshape; thumb and index extended at an angle, others closed; selected extended fingers are bent at the joints",
+      "bent_v": "V handshape; index and middle extended and separated; selected extended fingers are bent at the joints",
+      "c": "C handshape; fingers and thumb curved like the letter C",
+      "closed_b": "B handshape; four fingers extended together, thumb closed/tucked; handshape is more closed/compact than the base form",
+      "closed_e": "E handshape; fingers bent down toward the thumb; handshape is more closed/compact than the base form",
+      "curved_1": "index finger extended; other fingers closed; selected fingers are curved/clawed rather than straight",
+      "curved_4": "four fingers extended and spread; thumb closed/tucked; selected fingers are curved/clawed rather than straight",
+      "curved_5": "all fingers extended and spread; thumb open; selected fingers are curved/clawed rather than straight",
+      "curved_h": "H handshape; index and middle extended together, others closed; selected fingers are curved/clawed rather than straight",
+      "curved_l": "L handshape; thumb and index extended at an angle, others closed; selected fingers are curved/clawed rather than straight",
+      "curved_v": "V handshape; index and middle extended and separated; selected fingers are curved/clawed rather than straight",
+      "d": "D handshape; index extended, other fingers curved toward thumb",
+      "e": "E handshape; fingers bent down toward the thumb",
+      "f": "F/9 handshape; index and thumb form a circle, other fingers extended",
+      "flat_1": "index finger extended; other fingers closed; selected fingers are held flat/straight as a plane",
+      "flat_4": "four fingers extended and spread; thumb closed/tucked; selected fingers are held flat/straight as a plane",
+      "flat_b": "B handshape; four fingers extended together, thumb closed/tucked; selected fingers are held flat/straight as a plane",
+      "flat_h": "H handshape; index and middle extended together, others closed; selected fingers are held flat/straight as a plane",
+      "flat_horns": "horns handshape; index and pinky extended, middle/ring closed; selected fingers are held flat/straight as a plane",
+      "flat_ily": "I-L-Y handshape; thumb, index, and pinky extended; selected fingers are held flat/straight as a plane",
+      "flat_m": "M handshape; three fingers folded over the thumb; selected fingers are held flat/straight as a plane",
+      "flat_n": "N handshape; two fingers folded over the thumb; selected fingers are held flat/straight as a plane",
+      "flat_o": "O handshape; fingers and thumb form a rounded O; selected fingers are held flat/straight as a plane",
+      "flat_v": "V handshape; index and middle extended and separated; selected fingers are held flat/straight as a plane",
+      "flatspread_5": "all fingers extended and spread; thumb open; fingers are flat/straight and spread apart",
+      "g": "G handshape; index and thumb extended roughly parallel, others closed",
+      "goody_goody": "ASL-LEX named goody-goody handshape; use the visible finger configuration rather than English meaning",
+      "h": "H handshape; index and middle extended together, others closed",
+      "horns": "horns handshape; index and pinky extended, middle/ring closed",
+      "i": "I handshape; pinky extended, other fingers closed",
+      "ily": "I-L-Y handshape; thumb, index, and pinky extended",
+      "k": "K handshape; index and middle extended with thumb between/at their base",
+      "l": "L handshape; thumb and index extended at an angle, others closed",
+      "o": "O handshape; fingers and thumb form a rounded O",
+      "open_8": "ASL number-8 handshape; middle finger bends toward the thumb; handshape is more open/extended than the base form",
+      "open_b": "B handshape; four fingers extended together, thumb closed/tucked; handshape is more open/extended than the base form",
+      "open_e": "E handshape; fingers bent down toward the thumb; handshape is more open/extended than the base form",
+      "open_f": "F/9 handshape; index and thumb form a circle, other fingers extended; handshape is more open/extended than the base form",
+      "open_h": "H handshape; index and middle extended together, others closed; handshape is more open/extended than the base form",
+      "p": "P handshape; K-like handshape, often oriented downward",
+      "r": "R handshape; index and middle crossed",
+      "s": "S handshape; closed fist",
+      "spread_e": "E handshape; fingers bent down toward the thumb; fingers are spread apart",
+      "spread_open_e": "E handshape; fingers bent down toward the thumb; fingers are spread apart, handshape is more open/extended than the base form",
+      "stacked_5": "all fingers extended and spread; thumb open; fingers appear stacked/overlapped",
+      "t": "T handshape; fist with thumb inserted between index and middle",
+      "v": "V handshape; index and middle extended and separated",
+      "w": "W handshape; index, middle, and ring extended",
+      "y": "Y handshape; thumb and pinky extended, middle fingers closed"
+    }
+  },
+  "Nondominant Handshape": {
+    "definition": "Handshape of the nondominant/supporting hand when the sign is two-handed.",
+    "label_hints": {
+      "1": "Unverified ASL-LEX handshape label 1.0; use the visible hand configuration",
+      "3": "thumb, index, and middle fingers extended",
+      "4": "four fingers extended and spread; thumb closed/tucked",
+      "5": "all fingers extended and spread; thumb open",
+      "8": "ASL number-8 handshape; middle finger bends toward the thumb",
+      "A": "A handshape; fist-like hand with thumb along the side/front",
+      "B": "B handshape; four fingers extended together, thumb closed/tucked",
+      "C": "C handshape; fingers and thumb curved like the letter C",
+      "Dominance Condition Violation": "not a handshape; ASL-LEX dominance-condition violation for the nondominant hand",
+      "Lax": "lax or relaxed nondominant-hand configuration rather than a canonical handshape",
+      "O": "O handshape; fingers and thumb form a rounded O",
+      "S": "S handshape; closed fist",
+      "Symmetry Violation": "not a handshape; symmetry-condition violation label",
+      "a": "A handshape; fist-like hand with thumb along the side/front",
+      "baby_o": "baby-O handshape; fingertips and thumb form a small O",
+      "bent_1": "index finger extended; other fingers closed; selected extended fingers are bent at the joints",
+      "bent_l": "L handshape; thumb and index extended at an angle, others closed; selected extended fingers are bent at the joints",
+      "bent_v": "V handshape; index and middle extended and separated; selected extended fingers are bent at the joints",
+      "c": "C handshape; fingers and thumb curved like the letter C",
+      "closed_b": "B handshape; four fingers extended together, thumb closed/tucked; handshape is more closed/compact than the base form",
+      "curved_1": "index finger extended; other fingers closed; selected fingers are curved/clawed rather than straight",
+      "curved_5": "all fingers extended and spread; thumb open; selected fingers are curved/clawed rather than straight",
+      "curved_b": "B handshape; four fingers extended together, thumb closed/tucked; selected fingers are curved/clawed rather than straight",
+      "curved_l": "L handshape; thumb and index extended at an angle, others closed; selected fingers are curved/clawed rather than straight",
+      "curved_v": "V handshape; index and middle extended and separated; selected fingers are curved/clawed rather than straight",
+      "e": "E handshape; fingers bent down toward the thumb",
+      "f": "F/9 handshape; index and thumb form a circle, other fingers extended",
+      "flat_1": "index finger extended; other fingers closed; selected fingers are held flat/straight as a plane",
+      "flat_4": "four fingers extended and spread; thumb closed/tucked; selected fingers are held flat/straight as a plane",
+      "flat_b": "B handshape; four fingers extended together, thumb closed/tucked; selected fingers are held flat/straight as a plane",
+      "flat_h": "H handshape; index and middle extended together, others closed; selected fingers are held flat/straight as a plane",
+      "flat_horns": "horns handshape; index and pinky extended, middle/ring closed; selected fingers are held flat/straight as a plane",
+      "flat_m": "M handshape; three fingers folded over the thumb; selected fingers are held flat/straight as a plane",
+      "flat_o": "O handshape; fingers and thumb form a rounded O; selected fingers are held flat/straight as a plane",
+      "flat_v": "V handshape; index and middle extended and separated; selected fingers are held flat/straight as a plane",
+      "flatspread_5": "all fingers extended and spread; thumb open; fingers are flat/straight and spread apart",
+      "g": "G handshape; index and thumb extended roughly parallel, others closed",
+      "h": "H handshape; index and middle extended together, others closed",
+      "horns": "horns handshape; index and pinky extended, middle/ring closed",
+      "i": "I handshape; pinky extended, other fingers closed",
+      "ily": "I-L-Y handshape; thumb, index, and pinky extended",
+      "l": "L handshape; thumb and index extended at an angle, others closed",
+      "o": "O handshape; fingers and thumb form a rounded O",
+      "open_8": "ASL number-8 handshape; middle finger bends toward the thumb; handshape is more open/extended than the base form",
+      "open_b": "B handshape; four fingers extended together, thumb closed/tucked; handshape is more open/extended than the base form",
+      "open_e": "E handshape; fingers bent down toward the thumb; handshape is more open/extended than the base form",
+      "open_h": "H handshape; index and middle extended together, others closed; handshape is more open/extended than the base form",
+      "p": "P handshape; K-like handshape, often oriented downward",
+      "r": "R handshape; index and middle crossed",
+      "s": "S handshape; closed fist",
+      "spread_open_e": "E handshape; fingers bent down toward the thumb; fingers are spread apart, handshape is more open/extended than the base form",
+      "stacked_5": "all fingers extended and spread; thumb open; fingers appear stacked/overlapped",
+      "v": "V handshape; index and middle extended and separated",
+      "w": "W handshape; index, middle, and ring extended",
+      "y": "Y handshape; thumb and pinky extended, middle fingers closed"
+    }
+  },
+  "Selected Fingers": {
+    "definition": "The fingers that are phonologically selected in the dominant handshape.",
+    "label_hints": {
+      "i": "selected fingers are: index",
+      "im": "selected fingers are: index, middle",
+      "imp": "selected fingers are: index, middle, pinky/little finger",
+      "imr": "selected fingers are: index, middle, ring",
+      "imrp": "selected fingers are: index, middle, ring, pinky/little finger",
+      "ip": "selected fingers are: index, pinky/little finger",
+      "m": "selected fingers are: middle",
+      "mr": "selected fingers are: middle, ring",
+      "mrp": "selected fingers are: middle, ring, pinky/little finger",
+      "p": "selected fingers are: pinky/little finger",
+      "r": "selected fingers are: ring",
+      "t": "selected fingers are: thumb"
+    }
+  },
+  "Flexion": {
+    "definition": "Degree or pattern of bending/closure of the selected fingers.",
+    "label_hints": {
+      "Bent": "selected fingers bend sharply at a joint",
+      "Crossed": "selected fingers cross each other",
+      "Curved": "selected fingers are smoothly curved/clawed",
+      "Flat": "selected fingers are straight/flat at the visible joints",
+      "Fully Closed": "selected fingers are closed into the palm",
+      "Fully Open": "selected fingers are fully extended/open",
+      "Stacked": "selected fingers overlap or stack"
+    }
+  },
+  "Flexion Change": {
+    "definition": "Whether finger flexion changes during the sign.",
+    "label_hints": {
+      "0": "no flexion change",
+      "1": "finger flexion changes"
+    }
+  },
+  "Spread": {
+    "definition": "Whether selected fingers are spread apart rather than held together.",
+    "label_hints": {
+      "0": "selected fingers are not spread",
+      "1": "selected fingers are spread"
+    }
+  },
+  "Spread Change": {
+    "definition": "Whether finger spread changes during the sign.",
+    "label_hints": {
+      "0": "no spread change",
+      "1": "finger spread changes during the sign"
+    }
+  },
+  "Thumb Position": {
+    "definition": "Whether the thumb is open/extended or closed/adducted in the handshape.",
+    "label_hints": {
+      "Closed": "thumb is closed/tucked against the palm or fingers",
+      "Open": "thumb is extended/open away from the palm or fingers"
+    }
+  },
+  "Thumb Contact": {
+    "definition": "Whether the thumb contacts another finger or part of the hand in the handshape.",
+    "label_hints": {
+      "0": "no thumb contact",
+      "1": "thumb contacts another finger/part"
+    }
+  },
+  "Sign Type": {
+    "definition": "One-handed/two-handed organization and symmetry/dominance relation between hands.",
+    "label_hints": {
+      "Asymmetrical Different Handshape": "both hands are used with different handshapes",
+      "Asymmetrical Same Handshape": "both hands have same handshape but different roles/movement",
+      "Dominance Violation": "two-handed sign violates the dominance condition",
+      "One Handed": "only the dominant hand is active",
+      "Symmetrical Or Alternating": "both hands share the same/related handshape and move symmetrically or alternately",
+      "Symmetry Violation": "two-handed sign violates the symmetry condition"
+    }
+  },
+  "Path Movement": {
+    "definition": "Trajectory of the hand through signing space.",
+    "label_hints": {
+      "Back And Forth": "dominant hand moves back and forth",
+      "Circular": "dominant hand moves in a circular path",
+      "Curved": "dominant hand moves along a curved path",
+      "Other": "path is present but not one of the listed shapes",
+      "Straight": "dominant hand moves along a straight path",
+      "X-shaped": "path traces an X-like shape",
+      "Z-shaped": "path traces a Z-like shape"
+    }
+  },
+  "Repeated Movement": {
+    "definition": "Whether the lexical movement repeats.",
+    "label_hints": {
+      "0": "movement is not repeated",
+      "1": "movement is repeated"
+    }
+  },
+  "Wrist Twist": {
+    "definition": "Whether the wrist rotates/twists during the sign.",
+    "label_hints": {
+      "0": "no wrist twist",
+      "1": "wrist/forearm twists or rotates"
+    }
+  }
+}
